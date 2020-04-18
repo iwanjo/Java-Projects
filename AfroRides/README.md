@@ -13,16 +13,16 @@ Our application is called AfroRides, and will allow the user to conveniently boo
 
 Welcome Screen
 
-![Java-4](/Java-Projects/AfroRides/AfroRides-Images/image2.PNG)
+![Java-4](/AfroRides/AfroRides-Images/image2.PNG)
 
 
 Registration
 
-![Java-5](/Java-Projects/AfroRides-Images/image3.PNG)
+![Java-5](/AfroRides/AfroRides-Images/image3.PNG)
 
 This is our runnable Jar File and its icon.
 
-![Java-6](/Java-Projects/AfroRides-Images/image1.PNG)
+![Java-6](/AfroRides/AfroRides-Images/image1.PNG)
 
 
 
@@ -30,7 +30,7 @@ The user will be choose the type of car and location confirmation
 
 Location Confirmation
 
-![Java-7](/Java-Projects/AfroRides-Images/image4.PNG)
+![Java-7](/AfroRides/AfroRides-Images/image4.PNG)
 
 
 
