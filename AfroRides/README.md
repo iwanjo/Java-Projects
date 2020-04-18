@@ -13,7 +13,7 @@ Our application is called AfroRides, and will allow the user to conveniently boo
 
 Welcome Screen
 
-![Java-4](/Java-Projects/AfroRides-Images/image2.PNG)
+![Java-4](/Java-Projects/AfroRides/AfroRides-Images/image2.PNG)
 
 
 Registration
